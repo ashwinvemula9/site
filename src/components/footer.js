@@ -120,6 +120,7 @@ const Footer = () => {
                 <FormattedIcon name="Fork" />
                 <span>{githubInfo.forks.toLocaleString()}</span>
               </span>
+              <span>casdcdsa</span>
             </StyledGitHubInfo>
           )}
         </StyledGitHubLink>
